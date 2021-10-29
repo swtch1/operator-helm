@@ -5,5 +5,5 @@ questions:
   required: true
   type: string
   label: "API Key"
-  group: "Authentication"
-		
+  group: "Settings"
+
